@@ -6,7 +6,7 @@ import openai
 
 app = Flask(__name__)
 
-openai.api_key = "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"
+openai.api_key = "key"
 app.config['SECRET_KEY'] = 'secret_key'
 user_credentials = {
     "example_user": "my_password"
