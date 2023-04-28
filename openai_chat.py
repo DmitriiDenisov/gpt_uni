@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "KEY"
 message_history = []
 
 
